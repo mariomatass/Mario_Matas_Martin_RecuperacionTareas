@@ -111,10 +111,10 @@ function Home() {
                         <TableHead>
                             <TableRow>
                                 <TableCell></TableCell>
-                                <TableCell style={{ color: 'white' }}>Nombre</TableCell>
-                                <TableCell style={{ color: 'white' }}>Marca</TableCell>
-                                <TableCell style={{ color: 'white' }}>Tipo</TableCell>
-                                <TableCell style={{ color: 'white' }}>Precio</TableCell>
+                                <TableCell style={{ color: 'black' }}>Nombre</TableCell>
+                                <TableCell style={{ color: 'black' }}>Marca</TableCell>
+                                <TableCell style={{ color: 'black' }}>Tipo</TableCell>
+                                <TableCell style={{ color: 'black' }}>Precio</TableCell>
                             </TableRow>
                         </TableHead>
                         <TableBody>
