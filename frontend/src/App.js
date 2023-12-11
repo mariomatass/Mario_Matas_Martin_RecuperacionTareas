@@ -6,9 +6,8 @@ import Home from './components/Home'
 import Informes from './components/Informes'
 import GesUser from './components/GesUser'
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
-//importamos la función createBrowserRouter y el componente RouterProvider
-//de la librería react-router-dom
-//HACERLO
+
+
 const router = createBrowserRouter([
     {
         path: '/',

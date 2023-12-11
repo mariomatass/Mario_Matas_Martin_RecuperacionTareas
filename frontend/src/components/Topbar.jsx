@@ -18,7 +18,7 @@ function Topbar() {
         <AppBar position='static'>
             <Container>
                 <Toolbar>
-                    <Grid container spacing={2} alignItems="center">
+                    <Grid container spacing={1} alignItems="center">
                         <Grid item xs={12} md={1} lg={1}>
                             {userData.userRol === 'admin' && <AddModeratorIcon />}
                             {userData.userRol === 'invitado' && <InsertEmoticonIcon />}
